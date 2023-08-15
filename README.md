@@ -1,5 +1,5 @@
-# Power_BI_Dashboard
-•Developed an interactive dashboard to track and analyze online sales data.
+# Power_BI_Dashboards
+•Developed an interactive dashboard to track and analyze data.
 
 •Used complex parameters to drill down in worksheet and customization using filters and slicers.
 
