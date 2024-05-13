@@ -1,4 +1,4 @@
-# Power_BI_Dashboards
+# Power BI Dashboards
 •Developed an interactive dashboard to track and analyze data.
 
 •Used complex parameters to drill down in worksheet and customization using filters and slicers.
